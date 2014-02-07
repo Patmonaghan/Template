@@ -1,9 +1,11 @@
 /*this is my style sheet */
 * {
  color:#ff00aa; 
+ font-family: arial;
 }
 #main {
 color:#00ffff;
+font-family: helvetica;
 }
 h1{
 color:#000000;
