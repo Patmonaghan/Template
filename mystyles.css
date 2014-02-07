@@ -1,11 +1,11 @@
 /*this is my style sheet */
 * {
  color:#ff00aa; 
- font-family: arial;
+ font-family: Arial, Sans-Serif;
 }
 #main {
 color:#00ffff;
-font-family: helvetica;
+font-family: Helvetica;
 }
 h1{
 color:#000000;
