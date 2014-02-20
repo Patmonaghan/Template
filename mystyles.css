@@ -9,9 +9,11 @@ color:#00ffff;
 }
 h1{
  font-family: "Gill Sans MT", Arial, Helvetica, sans-serif;
+ font-size:70px;
  color:#000000;
 }
 p1{
  font-family: Verdana, Sans-Serif;
+ font-size:20;
  color:#aaaaaa;
 }
