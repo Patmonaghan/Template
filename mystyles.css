@@ -1,15 +1,17 @@
 /*this is my style sheet */
 * {
  color:#ff00aa; 
- font-family: Arial, Sans-Serif;
+ font-family: Verdana, Sans-Serif;
 }
 #main {
 color:#00ffff;
-font-family: Helvetica;
+
 }
 h1{
-color:#000000;
+ font-family: "Gill Sans MT", Arial, Helvetica, sans-serif;
+ color:#000000;
 }
 p1{
-  color:#aaaaaa;
+ font-family: Verdana, Sans-Serif;
+ color:#aaaaaa;
 }
