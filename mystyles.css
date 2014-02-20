@@ -2,6 +2,7 @@
 * {
  color:#ff00aa; 
  font-family: Verdana, Sans-Serif;
+ font-size:20px;
 }
 #main {
 color:#00ffff;
@@ -12,8 +13,8 @@ h1{
  font-size:70px;
  color:#000000;
 }
-p1{
+p{
  font-family: Verdana, Sans-Serif;
- font-size:20;
+ font-size:20px;
  color:#aaaaaa;
 }
